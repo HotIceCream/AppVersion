@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppVersion.TextAppearance" parent="android:TextAppearance">
+        <item name="android:textColor">#cccccc</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="AppVersion.TextView" parent="android:Widget.TextView">
+        <item name="android:textAppearance">@style/AppVersion.TextAppearance</item>
+    </style>
+
+
+</resources>
